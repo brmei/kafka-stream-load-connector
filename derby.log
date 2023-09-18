@@ -1,0 +1,480 @@
+----------------------------------------------------------------
+Tue Sep 05 12:48:28 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:29 PDT 2023:
+Shutting down instance a816c00e-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:29 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 59e70108-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:30 PDT 2023:
+Shutting down instance 59e70108-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:30 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance ca748215-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:30 PDT 2023:
+Shutting down instance ca748215-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:30 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 5437c31b-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:31 PDT 2023:
+Shutting down instance 5437c31b-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:31 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 294d0429-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:31 PDT 2023:
+Shutting down instance 294d0429-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:31 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 01e2c52e-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:31 PDT 2023:
+Shutting down instance 01e2c52e-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:31 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 8cc10638-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:31 PDT 2023:
+Shutting down instance 8cc10638-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:31 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 09180740-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:32 PDT 2023:
+Shutting down instance 09180740-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:32 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 9a160850-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:32 PDT 2023:
+Shutting down instance 9a160850-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:32 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 73540960-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:32 PDT 2023:
+Shutting down instance 73540960-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:32 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 94d20a70-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:32 PDT 2023:
+Shutting down instance 94d20a70-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:32 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 27990b78-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:32 PDT 2023:
+Shutting down instance 27990b78-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:32 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance fe700c80-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:33 PDT 2023:
+Shutting down instance fe700c80-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:33 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 7a154d7a-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:33 PDT 2023:
+Shutting down instance 7a154d7a-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:33 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 1a49ce6b-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:33 PDT 2023:
+Shutting down instance 1a49ce6b-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:33 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 73c6cf73-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:33 PDT 2023:
+Shutting down instance 73c6cf73-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:33 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 25b0d07e-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:33 PDT 2023:
+Shutting down instance 25b0d07e-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:33 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 4813d186-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:33 PDT 2023:
+Shutting down instance 4813d186-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:33 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance ae86d28e-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:34 PDT 2023:
+Shutting down instance ae86d28e-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:34 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 71e6d38e-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:34 PDT 2023:
+Shutting down instance 71e6d38e-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:34 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance e9d65492-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:34 PDT 2023:
+Shutting down instance e9d65492-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:34 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a3c9d596-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:34 PDT 2023:
+Shutting down instance a3c9d596-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:34 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 7f5416a1-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:34 PDT 2023:
+Shutting down instance 7f5416a1-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:34 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 7344d7a3-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:34 PDT 2023:
+Shutting down instance 7344d7a3-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:34 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 283698a5-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:35 PDT 2023:
+Shutting down instance 283698a5-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:35 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 1e2959a7-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:35 PDT 2023:
+Shutting down instance 1e2959a7-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:35 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 19225ab2-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:35 PDT 2023:
+Shutting down instance 19225ab2-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:35 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 6135dbb6-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:35 PDT 2023:
+Shutting down instance 6135dbb6-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:35 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 6808dcbe-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:35 PDT 2023:
+Shutting down instance 6808dcbe-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+----------------------------------------------------------------
+Tue Sep 05 12:48:35 PDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance b2ebddc6-018a-66e3-a1d8-000002af7e20 
+on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
+Loaded from file:/Users/brianmei/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=/Users/brianmei/Documents/GitHub/kafka-stream-load-connector
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 05 12:48:35 PDT 2023:
+Shutting down instance b2ebddc6-018a-66e3-a1d8-000002af7e20 on database directory /Users/brianmei/Documents/GitHub/kafka-stream-load-connector/__test_database_default with class loader org.powermock.core.classloader.javassist.JavassistMockClassLoader@1b07fc7a 
